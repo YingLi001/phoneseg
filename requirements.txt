@@ -1,0 +1,12 @@
+datasets==1.18.3
+transformers==4.18.0
+fsspec==2021.10.1
+jiwer==2.1.0
+hydra-core==0.11.3
+solver
+imgaug==0.2.6
+scipy==1.7.3
+matplotlib-label-lines
+matplotlib==3.2.2
+sacremoses==0.0.49
+huggingface-hub
